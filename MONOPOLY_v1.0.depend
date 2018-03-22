@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456523469 source:c:\users\marcin\desktop\c++_project\monopoly_v1.0\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+
